@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mastime": {
+      "command": "python",
+      "args": ["-m", "mastime_mcp.server"],
+      "cwd": "C:/Users/ASUS/Desktop/mcp server",
+      "env": {}
+    }
+  }
+}
